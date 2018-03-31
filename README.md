@@ -18,6 +18,6 @@ With the prerequisite modules installed, run `python setup.py install` to comple
 >>> s.CurrentRating()
 u'Placeholders'
 >>>
->>> s.SubmitRating('Suspicious','whalen.ryan@gmail.com')
+>>> s.SubmitRating('Suspicious','username@emailaddress.com')
 >>>
 ```
